@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-sdk-button",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/getyoti/ios-sdk-button.git",
+      "state" : {
+        "revision" : "d6f369bd8d1cbeae1cb0fc191dc71032d812dccf",
+        "version" : "4.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
